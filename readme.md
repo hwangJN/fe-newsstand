@@ -1,5 +1,5 @@
 # 📰 News-stand
-> 현대자동차그룹 softeer bootcamp 2기 4주 미션 <br/>
+> 현대자동차그룹 softeer bootcamp 2기 개인 미션 <br/>
 > 기간 : 2023.07.05 ~ 2023.07.28
 
 <br/>
